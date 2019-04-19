@@ -1,0 +1,10 @@
+/Cuspide/build/
+/Cuspide/nbproject/private/
+/Cuspide/dist/
+\.DS_Store
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
